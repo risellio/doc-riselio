@@ -50,6 +50,18 @@ const sidebars = {
         'ia/analyse-visuelle',
       ],
     },
+    {
+      type: 'category',
+      label: 'DB',
+      link: { type: 'doc', id: 'db/index' },
+      items: [
+        'db/mysql_intro',
+        'db/mysql_user_guide',
+        'db/mysql_guide',
+        'db/mysql_full_guide',
+        'db/mysql_admin_guide',
+      ],
+    },
   ],
 };
 
