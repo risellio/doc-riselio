@@ -42,3 +42,4 @@ Riselio est une plateforme de **revente intelligente multi-sources**. Elle scrap
 - **[Backend](./backend/)** — API Hono, auth, Stripe, base de données
 - **[Scraping](./scraping/)** — Lib vinted_scraper, patterns, gestion des erreurs
 - **[IA](./ia/)** — Analyse visuelle Anthropic, pipeline d'évaluation
+- **[DB](./db/)** — Tutoriel pour mysql
